@@ -16,3 +16,5 @@ lol
 -liste
 -de
 -choses
+
+comit transforme les etats successif du projet
