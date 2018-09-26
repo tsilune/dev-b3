@@ -19,7 +19,7 @@ Current branch > New branch
 
 Pour switcher entre la nouvelle branche et la master, il faut juste choisir dans current branch
 
-La page gh-pages permet de retrouver son html à l'adresse tsilune.github.io/dev-b3
+La page gh-pages permet de retrouver son html à l'adresse tsilune.github.io/site1
 Bref, de le publier quoi
 
 
